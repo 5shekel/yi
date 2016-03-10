@@ -8,10 +8,8 @@ lftp - http://lftp.yar.ru/
 
 
 ##connect
-in app settings >  "wifi is on on startup"<br>  
-(or with [scripts](http://www.tami.org.il/index.php/Ipcam#scripts))  
-
-connect to the yicam wifi 
+- in app settings >  "wifi is on on startup" (or with [scripts](http://www.tami.org.il/index.php/Ipcam#scripts))   
+- connect to the yicam wifi net (SSID="YDXJ_xxxxx" \ pwd="1...0"
 
 ##run
 <pre><code>
