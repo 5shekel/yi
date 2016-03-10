@@ -1,4 +1,5 @@
 # XIAOMI YI
+# https://github.com/5shekel/yi
 
 #runs ftp server ftp://192.168.42.1/
 #author: nutsey & nikulin
