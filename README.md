@@ -22,3 +22,13 @@ cd yi
 #run lftp script
 lftp -f getyi.lftp
 </code></pre>
+
+
+##
+<pre>
+<code>
+#dir list
+lftp 192.168.42.1 -e "cd /tmp/fuse_d;du -a;exit"
+</code>
+</pre>
+
